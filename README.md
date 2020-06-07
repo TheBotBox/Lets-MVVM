@@ -3,4 +3,4 @@
 
 A two part series published at    
 [Lets MVVM for ANDROID | Part 1](https://medium.com/@thebotbox/lets-mvvm-for-android-part-1-aca4fdc671cf)     
-<a href="https://medium.com/@thebotbox/lets-mvvm-for-android-part-2-5ab582498ef9">Lets MVVM for android | Part-2</a>
+<a href="https://medium.com/@thebotbox/lets-mvvm-for-android-part-2-5ab582498ef9">Lets MVVM for ANDROID | Part 2</a>
